@@ -1,0 +1,20 @@
+{
+  "name": "LGDHuaOPER.github.io--src",
+  "version": "1.0.0",
+  "description": "LGDHuaOPER.github.io 建站源码",
+  "main": "index.js",
+  "scripts": {
+    "start:dev:docs": "vuepress dev docs",
+    "build:prod:docs": "vuepress build docs",
+    "_start:dev:docs": "npx vuepress dev docs",
+    "_build:prod:docs": "npx vuepress build docs",
+    "deploy": "bash build&push.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
