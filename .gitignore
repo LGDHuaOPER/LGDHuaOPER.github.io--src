@@ -63,5 +63,4 @@ typings/
 # dist文件夹
 dist/
 
-# history
-.history/
+.history

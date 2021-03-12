@@ -4,7 +4,7 @@ lang: 'zh-CN'
 description: 'LGD.HuaFEEng博客网站-文章总览'
 meta:
   - name: keywords
-  - content: LGD.HuaFEEng,博客网站,技术,随笔,blob,总览
+  - content: 总览,overview,博客,blob,文章
 # 自定义页面类
 pageClass: 'index__articles-overview'
 sidebar: true

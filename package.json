@@ -8,7 +8,7 @@
     "build:prod:docs": "vuepress build docs",
     "_start:dev:docs": "npx vuepress dev docs",
     "_build:prod:docs": "npx vuepress build docs",
-    "deploy": "bash build&push.sh"
+    "deploy": "bash _shell_/deployToGithub.sh"
   },
   "keywords": [],
   "author": "",

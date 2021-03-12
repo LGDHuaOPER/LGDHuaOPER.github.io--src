@@ -4,7 +4,7 @@ lang: 'zh-CN'
 description: 'LGD.HuaFEEng博客网站-随笔分类-首页'
 meta:
   - name: keywords
-  - content: 随笔
+  - content: 随笔,essay
 # 自定义页面类
 pageClass: 'essay__index'
 sidebar: false

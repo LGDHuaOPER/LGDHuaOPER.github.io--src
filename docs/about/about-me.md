@@ -4,7 +4,7 @@ lang: 'zh-CN'
 description: 'LGD.HuaFEEng博客网站-关于分类-关于我'
 meta:
   - name: keywords
-  - content: about,关于我
+  - content: 关于,about,我
 # 自定义页面类
 pageClass: 'about__about-me'
 sidebar: true
@@ -19,7 +19,7 @@ sidebar: true
 
 网名：LGD.HuaFEEng
 
-笔名：敬昭
+笔名：昭华
 
 现居地：江苏苏州
 
@@ -37,5 +37,5 @@ sidebar: true
 
 QQ：1094360174
 
-邮箱：1094360174@qq.com
+邮箱：1094360174@qq.com; lgd.huafeeng@foxmail.com
 ```

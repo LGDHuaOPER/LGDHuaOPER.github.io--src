@@ -1,5 +1,8 @@
 ---
 title: 如何管理多个SSH-Key并可进行连接
+meta:
+  - name: keywords
+  - content: 技术,other,SSH,Key,连接
 ---
 
 ## 引言

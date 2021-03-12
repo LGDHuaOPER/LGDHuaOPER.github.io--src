@@ -4,7 +4,7 @@ lang: 'zh-CN'
 description: 'LGD.HuaFEEng博客网站-技术分类-CSS专题-首页'
 meta:
   - name: keywords
-  - content: CSS,Less,Sass
+  - content: 技术,CSS,Less,Sass
 # 自定义页面类
 pageClass: 'tech__css__index'
 sidebar: false

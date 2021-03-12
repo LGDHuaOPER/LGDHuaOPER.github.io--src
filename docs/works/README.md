@@ -4,7 +4,7 @@ lang: 'zh-CN'
 description: 'LGD.HuaFEEng博客网站-作品分类-首页'
 meta:
   - name: keywords
-  - content: works,作品
+  - content: 作品,works,博客,blob
 # 自定义页面类
 pageClass: 'works__index'
 sidebar: false

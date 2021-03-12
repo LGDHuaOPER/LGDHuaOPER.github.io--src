@@ -4,7 +4,7 @@ lang: 'zh-CN'
 description: 'LGD.HuaFEEng博客网站-技术分类-其他技术专题-首页'
 meta:
   - name: keywords
-  - content: technology,SSH
+  - content: 技术,technology,other
 # 自定义页面类
 pageClass: 'tech__other__index'
 sidebar: false
